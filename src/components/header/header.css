@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+.header{
+    background-color:#672280;
+    padding: 20px;
+    color: #fff;
+    height: 65px;
+}
+.header-nav{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+
+.nav-brand{
+    display: flex;
+    align-items:center;
+    color: #fff;
+    text-decoration: none;
+    gap: 5px;
+
+}
+
+.brand-img{
+    width: 31.31px;
+    height:28.22px;
+
+}
+
+.brand-title{
+    font-size: 20.75px;
+
+}
+
+.course-number{
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+
+}
