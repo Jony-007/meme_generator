@@ -1,10 +1,11 @@
 import "./App.css";
-import { Header } from "./components/index";
+import { Header, Meme } from "./components/index";
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <Meme />
     </div>
   );
 }
